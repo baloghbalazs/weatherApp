@@ -26,6 +26,7 @@ Ezután a weboldal megnyílik a böngészőben, ahol a keresősávba beírhatjuk
 
 # Egyéb információ
 Készítette : Balogh Balázs Géza
+<br />
 Elérhetőség: balogh.balazs991227@gmail.com
 
 [vscode]: https://code.visualstudio.com/

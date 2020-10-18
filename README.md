@@ -31,3 +31,9 @@ https://openweathermap.org/api - API az időjárás lekéréséhez
 2. npm start
 
 Ezután a weboldal megnyílik a böngészőben, ahol a keresősávba beírhatjuk az általunk kiválasztott település nevét, majd az Enter billentyűt lenyomva megkapjuk az adott településhez tartozó időjárási adatokat. (Hőmérséklet °C-ban, illetve időjárás pl: felhős/napos)
+
+[vscode]: https://code.visualstudio.com/
+[html5]: https://hu.wikipedia.org/wiki/HTML5
+[css3]: https://hu.wikipedia.org/wiki/Cascading_Style_Sheets
+[js]: https://hu.wikipedia.org/wiki/JavaScript
+[react]: https://reactjs.org/

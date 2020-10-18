@@ -24,7 +24,7 @@ https://openweathermap.org/api - API az időjárás lekéréséhez
 
 Ezután a weboldal megnyílik a böngészőben, ahol a keresősávba beírhatjuk az általunk kiválasztott település nevét, majd az Enter billentyűt lenyomva megkapjuk az adott településhez tartozó időjárási adatokat. (Hőmérséklet °C-ban, illetve időjárás pl: felhős/napos)
 
-#Egyéb információ
+# Egyéb információ
 Készítette : Balogh Balázs Géza
 Elérhetőség: balogh.balazs991227@gmail.com
 
